@@ -37,4 +37,20 @@ Obs: o código da tabela a cima foi executado no MySql Workbench 8.0 CE, no qual
     
     5 - Agora só executar o programa e utilizar.
 
-## Telas do Programa:
+## Telas Inicial:
+
+<div align="center">
+<img src="https://github.com/gustavocarmomendes/Working-day-Project/assets/112448190/324cf194-fad9-45a7-907b-b9c59979d3a4" width="450px" />
+</div
+
+## Telas do Controlador:
+
+<div align="center">
+<img src="https://github.com/gustavocarmomendes/Working-day-Project/assets/112448190/35884f6d-1a2d-4c28-997f-1dc9fd72ccf0" width="450px" />
+</div
+
+## Telas do Visualizador:
+
+<div align="center">
+<img src="https://github.com/gustavocarmomendes/Working-day-Project/assets/112448190/a79c84cb-f1b9-4fdc-9702-2f849f4d323a" width="450px" />
+</div
