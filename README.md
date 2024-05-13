@@ -1,4 +1,4 @@
-## Working day Project / Version 1.0
+## Time Manager Project / Version 1.0
  
 Projeto realizado para treinar o uso do LocalTime e Duration em Java.
 
